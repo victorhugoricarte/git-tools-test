@@ -1,5 +1,7 @@
 h1 {
-    color: crimson;
+    background: linear-gradient(to right, crimson,crimson, rgb(176, 10, 43), rgb(176, 10, 43), rgb(176, 10, 43));
+    background-clip: text;
+    color: transparent;
 }
 h2 {
     color: yellow;
